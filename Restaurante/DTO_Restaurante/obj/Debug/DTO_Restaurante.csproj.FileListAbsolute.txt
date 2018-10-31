@@ -1,0 +1,6 @@
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\bin\Debug\DTO_Restaurante.pdb
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DTO_Restaurante\obj\Debug\DTO_Restaurante.pdb

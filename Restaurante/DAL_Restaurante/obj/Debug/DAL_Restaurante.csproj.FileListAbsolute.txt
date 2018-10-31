@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\DAL_Restaurante.pdb
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\obj\Debug\DAL_Restaurante.pdb
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\DTO_Restaurante.pdb
+C:\Users\Marcelo\Source\repos\Restaurante\DAL_Restaurante\bin\Debug\MySql.Data.xml

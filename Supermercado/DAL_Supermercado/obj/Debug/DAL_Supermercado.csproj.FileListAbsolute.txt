@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\DAL_Supermercado.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\DAL_Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\MySql.Data.xml
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\obj\Debug\DAL_Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\obj\Debug\DAL_Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\obj\Debug\DAL_Supermercado.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\obj\Debug\DAL_Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\DTO_Supermercado.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DAL_Supermercado\bin\Debug\DTO_Supermercado.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\bin\Debug\DTO_Supermercado.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\bin\Debug\DTO_Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\obj\Debug\DTO_Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\obj\Debug\DTO_Supermercado.dll
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\obj\Debug\DTO_Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\DTO_Supermercado\obj\Debug\DTO_Supermercado.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Properties.Resources.resources
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Login.resources
+C:\Users\Marcelo\Source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Home.resources

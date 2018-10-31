@@ -1,0 +1,9 @@
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\bin\Debug\Mercado2B.exe.config
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\bin\Debug\Mercado2B.exe
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\bin\Debug\Mercado2B.pdb
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\UI_Mercado2B.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\Mercado2B.Properties.Resources.resources
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\UI_Mercado2B.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\UI_Mercado2B.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\Mercado2B.exe
+C:\Users\Marcelo\Source\repos\Mercado2B\Mercado2B\obj\Debug\Mercado2B.pdb
